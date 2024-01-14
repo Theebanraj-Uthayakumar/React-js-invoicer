@@ -1,6 +1,6 @@
 # About Invoicer - Read the note at the end
 
-![alt](./Screenshot.png)
+![alt](./ScreenshotNew.png)
 
 ## Current Features
 
